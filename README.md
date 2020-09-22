@@ -1,0 +1,2 @@
+# modified-ID3-Algorithm
+This algorithm is based on the concept of the decision trees. The proposed algorithm is better then the previous algorithms. It provides more accurate results. We have tested the proposed method on the example of patient data set. Our proposed methodology uses greedy approach to select the best attribute. To do so the information gain is used. The attribute with highest information gain is selected.
